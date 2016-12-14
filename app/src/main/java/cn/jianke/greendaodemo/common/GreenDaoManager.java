@@ -2,7 +2,6 @@ package cn.jianke.greendaodemo.common;
 
 import com.jk.greendao.gen.DaoMaster;
 import com.jk.greendao.gen.DaoSession;
-import com.jk.greendao.gen.MySQLiteOpenHelper;
 import cn.jianke.greendaodemo.BaseApplication;
 
 /**
